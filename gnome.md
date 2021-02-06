@@ -108,7 +108,7 @@ new_this_year: |
  </ul>
  <p>Some of the things we're looking forward to in 2021 include our GNOME 40 realease, GUADEC, <a href="http://gnome.asia/">GNME.Asia</a>, and Linux App Summit, as well as many more hackfests and social events, and selecting our final Community Engagement Challenge winner.</p>
 layout: stand
-logo: stands/gnome-logo.svg
+logo: stands/the_gnome_foundation/gnome-logo.svg
 themes:
   - Desktop Environments
   - Operating Systems
