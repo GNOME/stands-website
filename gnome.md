@@ -96,12 +96,14 @@ showcase: |
   <p>Don't miss out on picking up your GNOME gear! We've our t-shirts and other GNOME items can be purchased from our online shop. Visit <a href="https://shop.gnome.org/" target="_blank">shop.gnome.org</a> for more information.</p>
 new_this_year: |
   We are proud of everything GNOME has accomplished 2021! Here are a few of our projects:
-  - GNOME 40 launched in March with many updates and improvements along with a brand new <a href="https://youtu.be/vK-SwsWnEmo" target="_blank">release video</a> style
-  - Concluded our inaugural <a href="https://www.gnome.org/challenge/" target="_blank">Community Engagement Challenge</a> and announced our winner, Big Open Source Sibling, and runner-up, OpenUK Kids’ Courses and Associated Digital Camps with a live announcement 
-  - Participated in Outreachy and Google Summer of Code
-  - Hosted GUADEC, GNOME. Asia remotely and partnered with KDE on Linux App Summit
-  - Updated our websites and relaunched as two new site, <a href="https://www.gnome.org/" target="_blank">the GNOME Project</a>, and <a href="https://foundation.gnome.org/" target="_blank">the GNOME Foundation</a>
-  - And so much more!   
+  <ul>
+    <li>GNOME 40 launched in March with many updates and improvements along with a brand new <a href="https://youtu.be/vK-SwsWnEmo" target="_blank">release video</a> style</li>
+    <li>Concluded our inaugural <a href="https://www.gnome.org/challenge/" target="_blank">Community Engagement Challenge</a> and announced our winner, Big Open Source Sibling, and runner-up, OpenUK Kids’ Courses and Associated Digital Camps with a live announcement</li>
+    <li>Participated in Outreachy and Google Summer of Code</li>
+    <li>Hosted GUADEC, GNOME. Asia remotely and partnered with KDE on Linux App Summit</li>
+    <li>Updated our websites and relaunched as two new site, <a href="https://www.gnome.org/" target="_blank">the GNOME Project</a>, and <a href="https://foundation.gnome.org/" target="_blank">the GNOME Foundation</a></li>
+    <li>And so much more!</li>
+  </ul>
   Some of the things we're looking forward to in 2022 include our GNOME 42 realease, GUADEC, GNOME.Asia, and Linux App Summit, as well as many more hackfests and social events.
 layout: stand
 logo: stands/the_gnome_foundation/gnome-logo.svg
