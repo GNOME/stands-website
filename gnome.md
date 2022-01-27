@@ -16,7 +16,7 @@ showcase: |
       </tr>
       <tr>
         <td>11:00-12:00</td>
-        <td>General Chat Time</td>
+        <td>GNOME Circle</td>
       </tr>
       <tr>
         <td>12:00-13:00</td>
@@ -67,7 +67,7 @@ showcase: |
       </tr>
       <tr>
         <td>14:00-15:00</td>
-        <td>General Chat Time</td>
+        <td>Internships with GNOME</td>
       </tr>
       <tr>
         <td>15:00-16:00</td>
@@ -89,7 +89,7 @@ showcase: |
   <p>Learn more at <a href="https://events.gnome.org/event/96/" target="_blank">events.gnome.org</a>.</p>
   <h3>Contribute to GNOME</h3>
   <p>There are many ways to get involved in GNOME and many different projects to contribute on. The best place to get started is by visiting <a href="https://www.gnome.org/get-involved/" target="_blank">gnome.org/get-involved</a>.</p>
-  <p>Another great way to contribute to GNOME is by donating! Your donations help fund projects like GTK 4.0, GNOME internships, and events like GUADEC. Learn more about how you can help support GNOME by visiting <a href="https://www.gnome.org/support-gnome/" target="_blank">gnome.org/support-gnome</a>.</p>
+  <p>Another great way to contribute to GNOME is by donating! Your donations help fund projects like GTK 4.0, GNOME internships, and events like GUADEC. Learn more about how you can help support GNOME by visiting <a href="https://www.gnome.org/donate/" target="_blank">gnome.org/donate</a>.</p>
   <h3>Learn More about GNOME</h3>
   <p>Let us know you're interested! To learn more about all things GNOME (news, events, sponsorships, and support) <a href="https://surveys.gnome.org/661786?lang=en" target="_blank">fill out this short form</a> and we'll get in touch.</p>
   <h3>GNOME Shop</h3>
